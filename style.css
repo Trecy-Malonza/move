@@ -1,0 +1,132 @@
+.copy{
+    display: flex;
+}
+.navbar{
+    display: flex;
+}
+.header{
+    gap: 5%;
+    display: flex;
+}
+
+.image{
+     gap: 5%;
+    
+}
+.phone{
+    display: flex;
+    gap: 30%;
+    
+}
+.strive{
+
+    display: flex;
+    
+}
+.learn{
+    color: orange;
+}
+.since{
+    color: orange;
+}
+.title{
+    color: orange;
+}
+.customer{
+    color: orange;
+}
+.name{
+    color: orange;
+}
+.rose{
+    color: orange;
+}
+.join{
+    color: orange;
+}
+.logo{
+    display: flex;
+    gap: 10%;
+}
+.center{
+    text-align: center;
+}
+.storage{
+    display: flex;
+    gap: 10%;
+}
+.step{
+    text-align: center;
+    display: flex;
+    gap: 35%;
+}
+.riaad{
+    display: flex;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.moving{
+    height: 35px;
+    
+}
+.testimonials{
+    text-align: center;
+}
+.services{
+    display: flex;
+    gap: 10%;
+}
+.updates{
+    text-align: center;
+    
+}
+.address{
+    display: flex;
+    text-align: center;
+}
+.now{
+    margin-left: 400px;
+    
+}
+.drawings{
+    text-align: center;  
+}
+.article{
+    text-align: center;
+}
+.choice{
+    display: flex;
+    text-align: center;
+    gap: 10%;
+}
+.new{
+    text-align: center;
+    background-color: orange;
+    padding-left: 2px;
+    
+}
+.more{
+    padding-left: 10px;
+    margin-left: 400px;
+}
+.explore{
+    display: flex;
+    text-align: center;
+    gap: 5%;
+    padding-left: 5px;
+    background-color: darkgrey;
+}
+.copy{
+    text-align: center;
+    margin-right: 20px;
+}
+.blog{
+    margin-left: 600px;
+}
+@media only screen and (max-width: 600px) {
+    body {
+    }
+  }
+    
+
